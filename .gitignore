@@ -1,0 +1,9 @@
+/build/
+/.dart_tool/
+/.firebase/
+/.idea/
+/ios/
+/linux/
+/macos/
+/windows/
+/node_modules/

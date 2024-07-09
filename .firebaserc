@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "sabjitaja-45326"
+  },
+  "targets": {
+    "sabjitaja-45326": {
+      "hosting": {
+        "main": [
+          "sabjitaja-45326"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
