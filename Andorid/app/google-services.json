@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "977431736891",
+    "project_id": "sabjitaja-45326",
+    "storage_bucket": "sabjitaja-45326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977431736891:android:b283072dc5ce0431d6a21e",
+        "android_client_info": {
+          "package_name": "com.sabjitaja.sabjitaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977431736891-ceh3v6ldk7o9tmlbsgqvu201a3e74tp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sabjitaja.sabjitaja",
+            "certificate_hash": "9425ea21097a6b36cce50752842e6c8eff9e3d34"
+          }
+        },
+        {
+          "client_id": "977431736891-8lopac1qvajd1jcgsb023aqlg1up9l1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1v_ZOALBKk2LwD-o5jOD-oNXeRVng_1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977431736891-8lopac1qvajd1jcgsb023aqlg1up9l1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977431736891-5b5a3nt7nnj88ifu68f4jq1ibjv7h67g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harsh.ecommerce.sabjitaja"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
