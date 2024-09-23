@@ -26,12 +26,12 @@ Real Time Grocery Delivery App(SabjiTaza) is a cross-platform mobile application
 -Push Notifications: Get real-time notifications about order updates and special offers.
 
 ## TECH STACK
-### Frontend:
+## Frontend:
 Flutter - Cross-platform mobile development
 Dart - Programming language for Flutter
 Provider - State management
 Firebase - Authentication, Realtime Database, Firestore, and Analytics
-Backend:
+## *Backend*:
 Node.js - Backend server
 Express.js - Web framework for Node.js
 MongoDB - Database
