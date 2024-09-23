@@ -17,13 +17,13 @@ samples, guidance on mobile development, and a full API reference.
 Real Time Grocery Delivery App(SabjiTaza) is a cross-platform mobile application built with Flutter that enables users to order groceries and track their deliveries in real-time. The app offers an intuitive and seamless experience, ensuring users can shop from the comfort of their homes and receive their orders quickly.
 
 ## FEATURES
--Cross-Platform: Available on Android and iOS.
--User Authentication: Secure login and sign-up with email, Google, and Apple ID.
--Product Catalog: Browse and search for products across various categories.
--Real-Time Tracking: Monitor your order status from the time of purchase to delivery.
--Multiple Payment Methods: Supports various payment gateways and cash on delivery.
--Order History: Easily reorder from past purchases.
--Push Notifications: Get real-time notifications about order updates and special offers.
+## *Cross-Platform:* Available on Android and iOS.
+## *User Authentication:* Secure login and sign-up with email, Google, and Apple ID.
+## Product Catalog: Browse and search for products across various categories.
+## Real-Time Tracking: Monitor your order status from the time of purchase to delivery.
+## Multiple Payment Methods: Supports various payment gateways and cash on delivery.
+## Order History: Easily reorder from past purchases.
+## Push Notifications: Get real-time notifications about order updates and special offers.
 
 ## TECH STACK
 ## Frontend:
