@@ -1,6 +1,6 @@
 # Real time Grocery Delivery Application
 
-## Getting Started
+## OVERVIEW
 
 This project is a starting point for a Flutter application.
 
@@ -13,10 +13,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-INTRODUCTION
-SabjiTaza is a cross-platform mobile application built with Flutter that enables users to order groceries and track their deliveries in real-time. The app offers an intuitive and seamless experience, ensuring users can shop from the comfort of their homes and receive their orders quickly.
+##INTRODUCTION##
+Real Time Grocery Delivery App(SabjiTaza) is a cross-platform mobile application built with Flutter that enables users to order groceries and track their deliveries in real-time. The app offers an intuitive and seamless experience, ensuring users can shop from the comfort of their homes and receive their orders quickly.
 
-FEATURES
+##FEATURES##
 -Cross-Platform: Available on Android and iOS.
 -User Authentication: Secure login and sign-up with email, Google, and Apple ID.
 -Product Catalog: Browse and search for products across various categories.
@@ -25,8 +25,8 @@ FEATURES
 -Order History: Easily reorder from past purchases.
 -Push Notifications: Get real-time notifications about order updates and special offers.
 
-Tech STACK
-Frontend:
+## TECH STACK
+### Frontend:
 Flutter - Cross-platform mobile development
 Dart - Programming language for Flutter
 Provider - State management
